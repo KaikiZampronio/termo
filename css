@@ -1,0 +1,44 @@
+/*selector {
+    propriedade: valor;
+}  */
+html{
+    background-color:#6e5c62;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fds{
+    width: 100%;
+    text-align: center;
+}
+.fds table{
+    width: 50%;
+    margin: auto;
+    border-spacing: 5px;
+    height: 50%;
+}
+.fds td{
+    height: 50px;
+    background-color: #615458;
+    color: white;
+    font-size: 2em;
+    border-radius: 5px;
+   
+}
+
+.verde{
+    background-color: #3aa394 !important;
+}
+.preto{
+    background-color: #312a2c !important;
+}
+.amarelo{
+    background-color: #d3ad69 !important;
+}
+.bl{
+    background-color: transparent !important;
+    border: 0.125em solid #4c4347;
+}
+.ativa{
+    border-bottom: 0.250em solid #4c4347;
+}
+
